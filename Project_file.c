@@ -745,5 +745,13 @@ void details(void)
 	if(getch())
 	customer();
 }
+void aboutus(void)
+{
+	system("cls");
+	printf(" Press Any Key To Go Back.");
+	if(getch())
+	mainmenu();
+}
+
 
 
