@@ -746,12 +746,4 @@ void details(void)
 	customer();
 }
 
-void aboutus(void)
-{
-	system("cls");
-	printf("PEOPLE BEHIND THIS PROJECT :\n\n   -->Rohan Singh\n\n   -->Ashutosh Kumar\n\n   -->Naveen Prakash Satyarthi\n\n   -->Vishal Katiyar\n\n   -->Priyanshu Verma\n\n                       **********THANK YOU**********");
-	printf("\n\n");
-	printf("    Press Any Key To Go Back.");
-	if(getch())
-	mainmenu();
-}
+
