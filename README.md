@@ -1,10 +1,10 @@
-Project_FoodOrderSystem
+#Project_FoodOrderSystem
 
-Introduction
+#Introduction
 
 This food order management system C project is a console-based application written in the C programming language. This system is a simple mini-project built into the Code :: Blocks IDE and compiled with the GCC compiler. The project focuses on food order and customers record.
 
-Functionality Provided
+#Functionality Provided
 
 1.Customer  will be able to order vegiterranean food as well as non-vegiterranean food as per their comfort list shown in main menu.
 
@@ -12,15 +12,15 @@ Functionality Provided
 
 3.The system is able to manage detail of the customers as well as employees including search record, add record, delete record & view record.
 
-Approach
+#Approach
 
 The customer entering his/her data and reached in main menu the customer can place an order specifying the quantity of the food required. Now we get a window that displays the order number, customer ID, food name, price and quantity. Once the customer finalizes his/her order, they are redirected to the payment window where the total price is displayed in the screen.
 
-Implementation
+#Implementation
 
 https://github.com/komalgour/M1_Project-.git
 
-Output
+#Output
 
 ![output1](https://user-images.githubusercontent.com/101037269/161426146-3837d7b0-c026-41f5-a48e-2e4e901f4aae.PNG)
 
@@ -31,7 +31,7 @@ Output
 
 ![op4](https://user-images.githubusercontent.com/101037269/161426227-a4ef9642-bac6-4c60-aa3f-488c812942b8.PNG)
 
-Demonstration
+#Demonstration
 
 Step 1:
 
